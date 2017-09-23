@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-
+<h1>Test-tacular!</h1>
 <div id="main-content">
 	<div class="container">
 		<div id="content-area" class="clearfix">
